@@ -2,8 +2,8 @@ from rembg import remove
 import os
 
 
-input_path = r'D:\Hendry\rmbg\input'
-output_path =  r'D:\Hendry\rmbg\output'
+input_path = r.\input'
+output_path =  r'.\output'
 
 
 for root, dirs, files in os.walk(input_path):
